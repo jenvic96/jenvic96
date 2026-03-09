@@ -10,6 +10,7 @@
 ## 👩‍💻 About Me
 
 Hi there! I'm **Jennifer Victoria**, a passionate **Data Analysis student** on a journey to turn raw data into meaningful insights. Currently diving deep into **Power BI** and building projects that tell stories through data.
+
 I'm a fast learner who thrives on finding creative solutions to complex problems, whether that's untangling a messy dataset or picking up a new tool on the fly. I bring curiosity, resourcefulness, and a strong drive to every project I take on.
 
 - 🎓 **Technical Certificate in Data Analytics** — Universidad Cenfotec, Costa Rica *(Feb 2026 – Nov 2026)*
