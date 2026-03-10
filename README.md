@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2e86c1&height=200&section=header&text=Jennifer%20Victoria&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analysis%20Student%20%7C%20Power%20BI%20Enthusiast&descAlignY=58&descSize=18&descColor=a8d4f5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9b8ec4,100:b8b8d1&height=200&section=header&text=Jennifer%20Victoria&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analysis%20Student%20%7C%20Power%20BI%20Enthusiast&descAlignY=58&descSize=18&descColor=ede8f5" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me
 
 Hi there! I'm **Jennifer Victoria**, a passionate **Data Analysis student** on a journey to turn raw data into meaningful insights. Currently diving deep into **Power BI** and building projects that tell stories through data.
 
@@ -22,7 +22,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 ---
 
-## 🛠️ Tools & Technologies
+## ✨ Tools & Technologies
 
 <div align="center">
 
@@ -31,7 +31,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 | 📊 **Visualization** | Power BI |
 | 🗄️ **Data & Querying** | SQL, Excel |
 | 🐍 **Programming** | Python, R |
-| 🤖 **AI Tools** | Claude, ChatGPT, Microsoft Copilot *(familiar: research, productivity & problem-solving)* |
+| 🤖 **AI Tools** | Claude, ChatGPT, Microsoft Copilot *(familiar — research, productivity & problem-solving)* |
 | 🔧 **Currently Learning** | Advanced DAX, Data Modeling |
 
 </div>
@@ -55,7 +55,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 
 
-## 🎯 Current Focus
+## 💫 Current Focus
 
 ```text
 📊 Power BI     ████████████░░░░░░░░   60%
@@ -85,7 +85,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 ---
 
-## 🏅 Certifications
+## 🎀 Certifications
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
@@ -99,9 +99,9 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 
 
-<div align="center">
+## 💌 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifervictoriaarriolasalazar/)
+<div align="center">?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifervictoriaarriolasalazar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azarjen96@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jenvic96)
 
@@ -113,6 +113,6 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e86c1,100:1e3a5f&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b8b8d1,100:9b8ec4&height=100&section=footer" />
 
 </div>
