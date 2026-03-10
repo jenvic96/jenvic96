@@ -11,12 +11,13 @@
 
 Hi there! I'm **Jennifer Victoria**, a passionate **Data Analysis student** on a journey to turn raw data into meaningful insights. Currently diving deep into **Power BI** and building projects that tell stories through data.
 
-I'm a fast learner who thrives on finding creative solutions to complex problems, whether that's untangling a messy dataset or picking up a new tool on the fly. I bring curiosity, resourcefulness, and a strong drive to every project I take on.
+I'm a fast learner who thrives on finding creative solutions to complex problems — whether that's untangling a messy dataset or picking up a new tool on the fly. I bring curiosity, resourcefulness, and a strong drive to every project I take on.
 
 - 🎓 **Technical Certificate in Data Analytics** — Universidad Cenfotec, Costa Rica *(Feb 2026 – Nov 2026)*
 - 📊 Focused on **Power BI dashboards** and data visualization
 - 🌱 Learning SQL, Python (Pandas), R, machine learning & EDA
-- 💡 Passionate about uncovering patterns and making data-driven decisions
+- 🔍 Strong research skills — I dig until I find the right answer
+- ⚡ Quick learner, self-motivated, and always eager to grow
 - 📍 Based in **Costa Rica** 🇨🇷 — open to collaboration, feedback, and opportunities
 
 ---
@@ -30,7 +31,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 | 📊 **Visualization** | Power BI |
 | 🗄️ **Data & Querying** | SQL, Excel |
 | 🐍 **Programming** | Python, R |
-| 🤖 **AI Tools** | Claude, ChatGPT, Microsoft Copilot |
+| 🤖 **AI Tools** | Claude, ChatGPT, Microsoft Copilot *(familiar — research, productivity & problem-solving)* |
 | 🔧 **Currently Learning** | Advanced DAX, Data Modeling |
 
 </div>
@@ -50,18 +51,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 ---
 
-## 📂 Projects
 
-> 🚧 **Projects currently in progress — check back soon!**
-> I'm actively working on my first Power BI dashboards and data analysis case studies. Watch this repo for updates!
-
-| Project | Description | Tools | Status |
-|---------|-------------|-------|--------|
-| 🔜 Power BI Sales Dashboard | Interactive dashboard analyzing sales trends & KPIs | Power BI, Excel | 🛠️ In Progress |
-| 🔜 SQL Data Exploration | Querying and cleaning real-world datasets | SQL | 🛠️ In Progress |
-| 🔜 Python EDA Project | Exploratory data analysis with visualizations | Python, Pandas | 🛠️ In Progress |
-
----
 
 
 
