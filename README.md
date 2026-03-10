@@ -7,7 +7,7 @@
 
 ---
 
-## 🌸 About Me
+## 👩‍💻 About Me
 
 Hi there! I'm **Jennifer Victoria**, a passionate **Data Analysis student** on a journey to turn raw data into meaningful insights. Currently diving deep into **Power BI** and building projects that tell stories through data.
 
@@ -18,11 +18,11 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 - 🌱 Learning SQL, Python (Pandas), R, machine learning & EDA
 - 🔍 Strong research skills — I dig until I find the right answer
 - ⚡ Quick learner, self-motivated, and always eager to grow
-- 📍 Based in **Costa Rica** 🇨🇷 — open to collaboration, feedback, and opportunities
+- 🌎 Based in **Costa Rica** 🇨🇷 — open to collaboration, feedback, and opportunities
 
 ---
 
-## ✨ Tools & Technologies
+## 🔬 Tools & Technologies
 
 <div align="center">
 
@@ -55,7 +55,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 
 
-## 💫 Current Focus
+## 🧠 Current Focus
 
 ```text
 📊 Power BI     ████████████░░░░░░░░   60%
@@ -67,7 +67,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 ---
 
-## 💼 Work Experience
+## 🗂️ Work Experience
 
 **Client Support — Operations** · LanguageLine Solutions *(Feb 2024 – Present · Remote)*
 - Handles reporting, billing tracking, and account maintenance — identifying trends to prevent recurring issues
@@ -85,7 +85,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 ---
 
-## 🎀 Certifications
+## 🏆 Certifications
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
@@ -99,7 +99,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 
 
-## 💌 Let's Connect
+## 🛸 Let's Connect
 
 <div align="center">
 
