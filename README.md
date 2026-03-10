@@ -31,7 +31,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 | 📊 **Visualization** | Power BI |
 | 🗄️ **Data & Querying** | SQL, Excel |
 | 🐍 **Programming** | Python, R |
-| 🤖 **AI Tools** | Claude, ChatGPT, Microsoft Copilot *(familiar — research, productivity & problem-solving)* |
+| 🤖 **AI Tools** | Claude, ChatGPT, Microsoft Copilot *(familiar: research, productivity & problem-solving)* |
 | 🔧 **Currently Learning** | Advanced DAX, Data Modeling |
 
 </div>
