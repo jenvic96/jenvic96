@@ -13,12 +13,12 @@ Hi there! I'm **Jennifer Victoria**, a passionate **Data Analysis student** on a
 
 I'm a fast learner who thrives on finding creative solutions to complex problems, whether that's untangling a messy dataset or picking up a new tool on the fly. I bring curiosity, resourcefulness, and a strong drive to every project I take on.
 
-- 🎓 **Technical Certificate in Data Analytics** — Universidad Cenfotec, Costa Rica *(Feb 2026 – Nov 2026)*
+- 🎓 **Technical Certificate in Data Analytics**  Universidad Cenfotec, Costa Rica *(Feb 2026 – Nov 2026)*
 - 📊 Focused on **Power BI dashboards** and data visualization
 - 🌱 Learning SQL, Python (Pandas), R, machine learning & EDA
-- 🔍 Strong research skills — I dig until I find the right answer
+- 🔍 Strong research skills  I dig until I find the right answer
 - ⚡ Quick learner, self-motivated, and always eager to grow
-- 🌎 Based in **Costa Rica** 🇨🇷 open to collaboration, feedback, and opportunities
+- 🌎 Based in **Costa Rica** 🇨🇷  open to collaboration, feedback, and opportunities
 
 ---
 
@@ -31,7 +31,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 | 📊 **Visualization** | Power BI |
 | 🗄️ **Data & Querying** | SQL, Excel |
 | 🐍 **Programming** | Python, R |
-| 🤖 **AI Tools** | Claude, ChatGPT, Microsoft Copilot *(familiar — research, productivity & problem-solving)* |
+| 🤖 **AI Tools** | Claude, ChatGPT, Microsoft Copilot *(familiar  research, productivity & problem-solving)* |
 | 🔧 **Currently Learning** | Advanced DAX, Data Modeling |
 
 </div>
@@ -75,8 +75,8 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 ## 🗂️ Work Experience
 
-**Client Support — Operations** · LanguageLine Solutions *(Feb 2024 – Present · Remote)*
-- Handles reporting, billing tracking, and account maintenance — identifying trends to prevent recurring issues
+**Client Support  Operations** · LanguageLine Solutions *(Feb 2024 – Present · Remote)*
+- Handles reporting, billing tracking, and account maintenance  identifying trends to prevent recurring issues
 - Prepares **ad hoc reports and data pulls** for executives and clients, translating raw data into clear, actionable summaries
 - Proficient in **Salesforce**, **Excel**, and **Microsoft Office Suite** for data management and report generation
 - Monitors and resolves billing inquiries, supporting data-driven decision making across accounts
@@ -118,7 +118,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 <div align="center">
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+*"Without data, you're just another person with an opinion."*  W. Edwards Deming
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b8b8d1,100:9b8ec4&height=100&section=footer" />
 
