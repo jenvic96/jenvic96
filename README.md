@@ -51,9 +51,15 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 ---
 
+## 📂 Projects
 
+| Project | Description | Tools | Link |
+|---------|-------------|-------|------|
+| 📊 Customer Satisfaction Dashboard | Power BI dashboard analyzing satisfaction & purchasing behavior of an electronics store. Includes ETL in Power Query, 4 visuals, slicers, and deep dive analysis. | Power BI, Power Query, Excel | [🔗 View Project](https://github.com/jenvic96/powerbi-satisfaction-dashboard) |
 
+> 🚀 More projects coming as I progress through my program at Cenfotec!
 
+---
 
 ## 🧠 Current Focus
 
@@ -71,6 +77,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 **Client Support — Operations** · LanguageLine Solutions *(Feb 2024 – Present · Remote)*
 - Handles reporting, billing tracking, and account maintenance — identifying trends to prevent recurring issues
+- Prepares **ad hoc reports and data pulls** for executives and clients, translating raw data into clear, actionable summaries
 - Proficient in **Salesforce**, **Excel**, and **Microsoft Office Suite** for data management and report generation
 - Monitors and resolves billing inquiries, supporting data-driven decision making across accounts
 
@@ -96,8 +103,6 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 | Lean Six Sigma Foundations | LinkedIn | 2021 |
 
 ---
-
-
 
 ## 🛸 Let's Connect
 
