@@ -18,7 +18,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 - 🌱 Learning SQL, Python (Pandas), R, machine learning & EDA
 - 🔍 Strong research skills — I dig until I find the right answer
 - ⚡ Quick learner, self-motivated, and always eager to grow
-- 🌎 Based in **Costa Rica** 🇨🇷 — open to collaboration, feedback, and opportunities
+- 🌎 Based in **Costa Rica** 🇨🇷 open to collaboration, feedback, and opportunities
 
 ---
 
