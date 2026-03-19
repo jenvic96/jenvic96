@@ -16,9 +16,9 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 - 🎓 **Technical Certificate in Data Analytics**  Universidad Cenfotec, Costa Rica *(Feb 2026 – Nov 2026)*
 - 📊 Focused on **Power BI dashboards** and data visualization
 - 🌱 Learning SQL, Python (Pandas), R, machine learning & EDA
-- 🔍 Strong research skills  I dig until I find the right answer
+- 🔍 Strong research skills — I dig until I find the right answer
 - ⚡ Quick learner, self-motivated, and always eager to grow
-- 🌎 Based in **Costa Rica** 🇨🇷  open to collaboration, feedback, and opportunities
+- 🌎 Based in **Costa Rica** 🇨🇷 — open to collaboration, feedback, and opportunities
 
 ---
 
@@ -31,7 +31,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 | 📊 **Visualization** | Power BI |
 | 🗄️ **Data & Querying** | SQL, Excel |
 | 🐍 **Programming** | Python, R |
-| 🤖 **AI Tools** | Claude, ChatGPT, Microsoft Copilot *(familiar  research, productivity & problem-solving)* |
+| 🤖 **AI Tools** | Claude, ChatGPT, Microsoft Copilot *(familiar — research, productivity & problem-solving)* |
 | 🔧 **Currently Learning** | Advanced DAX, Data Modeling |
 
 </div>
@@ -55,7 +55,8 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
-| 📊 Customer Satisfaction Dashboard | Power BI dashboard analyzing satisfaction & purchasing behavior of an electronics store. Includes ETL in Power Query, 4 visuals, slicers, and deep dive analysis. | Power BI, Power Query, Excel | [🔗 View Project](https://github.com/jenvic96/powerbi-satisfaction-dashboard) |
+| 📞 **Call Center Performance Dashboard** | Final project Power BI dashboard analyzing call center operations for March 20, 2024. Covers agent performance, call types, department distribution, resolution outcomes, and call duration segmentation. Includes 2 interactive pages with slicers and DAX measures. | Power BI, DAX, Power Query | [🔗 View Project](https://github.com/jenvic96/call-center-dashboard) |
+| 📊 **Customer Satisfaction Dashboard** | Power BI dashboard analyzing satisfaction & purchasing behavior of an electronics store. Includes ETL in Power Query, 4 visuals, slicers, and deep dive analysis. | Power BI, Power Query, Excel | [🔗 View Project](https://github.com/jenvic96/powerbi-satisfaction-dashboard) |
 
 > 🚀 More projects coming as I progress through my program at Cenfotec!
 
@@ -75,8 +76,8 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 ## 🗂️ Work Experience
 
-**Client Support  Operations** · LanguageLine Solutions *(Feb 2024 – Present · Remote)*
-- Handles reporting, billing tracking, and account maintenance  identifying trends to prevent recurring issues
+**Client Support & Operations** · LanguageLine Solutions *(Feb 2024 – Present · Remote)*
+- Handles reporting, billing tracking, and account maintenance — identifying trends to prevent recurring issues
 - Prepares **ad hoc reports and data pulls** for executives and clients, translating raw data into clear, actionable summaries
 - Proficient in **Salesforce**, **Excel**, and **Microsoft Office Suite** for data management and report generation
 - Monitors and resolves billing inquiries, supporting data-driven decision making across accounts
@@ -118,7 +119,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 <div align="center">
 
-*"Without data, you're just another person with an opinion."*  W. Edwards Deming
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b8b8d1,100:9b8ec4&height=100&section=footer" />
 
