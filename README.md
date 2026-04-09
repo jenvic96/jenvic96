@@ -57,6 +57,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 |---------|-------------|-------|------|
 | 📞 **Call Center Performance Dashboard** | Final project Power BI dashboard analyzing call center operations for March 20, 2024. Covers agent performance, call types, department distribution, resolution outcomes, and call duration segmentation. Includes 2 interactive pages with slicers and DAX measures. | Power BI, DAX, Power Query | [🔗 View Project](https://github.com/jenvic96/call-center-dashboard) |
 | 📊 **Customer Satisfaction Dashboard** | Power BI dashboard analyzing satisfaction & purchasing behavior of an electronics store. Includes ETL in Power Query, 4 visuals, slicers, and deep dive analysis. | Power BI, Power Query, Excel | [🔗 View Project](https://github.com/jenvic96/powerbi-satisfaction-dashboard) |
+| 🐍 **Python Beginner Projects** | First Python scripts built during my Data Analytics program: a rectangle area calculator and a colones to USD/EUR currency converter. Covers variables, input, arithmetic, and f-string formatting. | Python | [🔗 View Project](https://github.com/jenvic96/python-projects) |
 
 > 🚀 More projects coming as I progress through my program at Cenfotec!
 
@@ -77,7 +78,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 ## 🗂️ Work Experience
 
 **Client Support & Operations** · LanguageLine Solutions *(Feb 2024 – Present · Remote)*
-- Handles reporting, billing tracking, and account maintenance — identifying trends to prevent recurring issues
+- Handles reporting, billing tracking, and account maintenance identifying trends to prevent recurring issues
 - Prepares **ad hoc reports and data pulls** for executives and clients, translating raw data into clear, actionable summaries
 - Proficient in **Salesforce**, **Excel**, and **Microsoft Office Suite** for data management and report generation
 - Monitors and resolves billing inquiries, supporting data-driven decision making across accounts
