@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9b8ec4,100:b8b8d1&height=200&section=header&text=Jennifer%20Victoria&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analysis%20Student%20%7C%20Power%20BI%20Enthusiast&descAlignY=58&descSize=18&descColor=ede8f5" />
 
 </div>
@@ -9,16 +8,16 @@
 
 ## 👩‍💻 About Me
 
-Hi there! I'm **Jennifer Victoria**, a passionate **Data Analysis student** on a journey to turn raw data into meaningful insights. Currently diving deep into **Power BI** and building projects that tell stories through data.
+Hi there! I'm **Jennifer Victoria**, a passionate **Data Analysis student** focused on transforming raw data into meaningful insights.
 
-I'm a fast learner who thrives on finding creative solutions to complex problems, whether that's untangling a messy dataset or picking up a new tool on the fly. I bring curiosity, resourcefulness, and a strong drive to every project I take on.
+I’m currently building projects in **Power BI and Python**, developing dashboards and analytical workflows that help uncover trends and support decision-making. I enjoy solving complex problems, exploring data, and continuously learning new tools.
 
-- 🎓 **Technical Certificate in Data Analytics**  Universidad Cenfotec, Costa Rica *(Feb 2026 – Nov 2026)*
-- 📊 Focused on **Power BI dashboards** and data visualization
-- 🌱 Learning SQL, Python (Pandas), R, machine learning & EDA
-- 🔍 Strong research skills — I dig until I find the right answer
-- ⚡ Quick learner, self-motivated, and always eager to grow
-- 🌎 Based in **Costa Rica** 🇨🇷 — open to collaboration, feedback, and opportunities
+- 🎓 **Technical Certificate in Data Analytics** — Universidad Cenfotec *(Feb 2026 – Nov 2026)*  
+- 📊 Focused on **Power BI dashboards** and data visualization  
+- 🌱 Learning SQL, Python (Pandas), R, machine learning & EDA  
+- 🔍 Strong research and problem-solving skills  
+- ⚡ Fast learner, self-motivated, and growth-driven  
+- 🌎 Based in **Costa Rica** 🇨🇷 — open to opportunities and collaboration  
 
 ---
 
@@ -31,7 +30,7 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 | 📊 **Visualization** | Power BI |
 | 🗄️ **Data & Querying** | SQL, Excel |
 | 🐍 **Programming** | Python, R |
-| 🤖 **AI Tools** | Claude, ChatGPT, Microsoft Copilot *(familiar — research, productivity & problem-solving)* |
+| 🤖 **AI Tools** | ChatGPT, Claude, Microsoft Copilot |
 | 🔧 **Currently Learning** | Advanced DAX, Data Modeling |
 
 </div>
@@ -55,11 +54,11 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
-| 📞 **Call Center Performance Dashboard** | Final project Power BI dashboard analyzing call center operations for March 20, 2024. Covers agent performance, call types, department distribution, resolution outcomes, and call duration segmentation. Includes 2 interactive pages with slicers and DAX measures. | Power BI, DAX, Power Query | [🔗 View Project](https://github.com/jenvic96/call-center-dashboard) |
-| 📊 **Customer Satisfaction Dashboard** | Power BI dashboard analyzing satisfaction & purchasing behavior of an electronics store. Includes ETL in Power Query, 4 visuals, slicers, and deep dive analysis. | Power BI, Power Query, Excel | [🔗 View Project](https://github.com/jenvic96/powerbi-satisfaction-dashboard) |
-| 🐍 **Python Beginner Projects** | First Python scripts built during my Data Analytics program: a rectangle area calculator and a colones to USD/EUR currency converter. Covers variables, input, arithmetic, and f-string formatting. | Python | [🔗 View Project](https://github.com/jenvic96/python-projects) |
+| 📞 **Call Center Performance Dashboard** | Power BI dashboard analyzing call center operations, including agent performance, call types, resolution rates, and duration segmentation. Features interactive pages with slicers and DAX measures. | Power BI, DAX, Power Query | [🔗 View Project](https://github.com/jenvic96/call-center-dashboard) |
+| 📊 **Customer Satisfaction Dashboard** | Dashboard analyzing customer satisfaction and purchasing behavior in an electronics store. Includes ETL (Power Query), visuals, slicers, and analytical insights. | Power BI, Power Query, Excel | [🔗 View Project](https://github.com/jenvic96/powerbi-satisfaction-dashboard) |
+| 🐍 **Python Beginner Projects** | Collection of foundational Python scripts including rectangle area calculator, currency converter, student grading logic, and sales commission calculator. Covers input handling, conditionals, arithmetic, and formatting. | Python | [🔗 View Project](https://github.com/jenvic96/python-projects) |
 
-> 🚀 More projects coming as I progress through my program at Cenfotec!
+> 🚀 More projects coming as I continue my Data Analytics journey!
 
 ---
 
@@ -68,8 +67,8 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 ```text
 📊 Power BI     ████████████░░░░░░░░   60%
 🐍 Python       ███████░░░░░░░░░░░░░   35%
-🗄️  SQL          ████████░░░░░░░░░░░░   40%
-📈 R             █████░░░░░░░░░░░░░░░   25%
+🗄️ SQL          ████████░░░░░░░░░░░░   40%
+📈 R            █████░░░░░░░░░░░░░░░   25%
 📉 Statistics   ███████░░░░░░░░░░░░░   35%
 ```
 
@@ -77,20 +76,18 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 
 ## 🗂️ Work Experience
 
-**Client Support & Operations** · LanguageLine Solutions *(Feb 2024 – Present · Remote)*
-- Handles reporting, billing tracking, and account maintenance identifying trends to prevent recurring issues
-- Prepares **ad hoc reports and data pulls** for executives and clients, translating raw data into clear, actionable summaries
-- Proficient in **Salesforce**, **Excel**, and **Microsoft Office Suite** for data management and report generation
-- Monitors and resolves billing inquiries, supporting data-driven decision making across accounts
+**Client Support & Operations** · LanguageLine Solutions *(Feb 2024 – Present · Remote)*  
+- Developed reports and tracked billing data to identify trends and prevent recurring issues  
+- Delivered **ad hoc data analysis** for executives and clients  
+- Used **Salesforce, Excel, and Office tools** for reporting and data management  
 
-**ML Data Operations Associate** · Amazon *(Jul 2022 – Mar 2023 · Remote)*
-- Fed and monitored **AI algorithms and machine learning** models to improve system performance
-- Managed ticket escalations and contributed to quality assurance of ML outputs
+**ML Data Operations Associate** · Amazon *(Jul 2022 – Mar 2023 · Remote)*  
+- Supported machine learning systems by monitoring and improving data quality  
+- Handled escalations and contributed to model performance improvements  
 
-**Customer Service Team Leader** · Amazon *(Nov 2020 – May 2021 · Remote)*
-- Tracked and analyzed weekly **KPIs and quality metrics** for a team of 17–21 supervisors
-- Built reports and developed data-driven coaching plans to improve team performance
-- Led projects focused on operational metrics such as Missed Contact Rate
+**Customer Service Team Leader** · Amazon *(Nov 2020 – May 2021 · Remote)*  
+- Analyzed KPIs and performance metrics for teams of 17–21 supervisors  
+- Built reports and implemented data-driven coaching strategies  
 
 ---
 
@@ -99,8 +96,8 @@ I'm a fast learner who thrives on finding creative solutions to complex problems
 | Certification | Issuer | Year |
 |---------------|--------|------|
 | Getting Started with Git and GitHub | IBM | 2023 |
-| Learning Data Analytics Part 2: Extending and Applying Core Knowledge | LinkedIn | 2022 |
-| Learning Data Analytics 1: Foundations | LinkedIn | 2022 |
+| Learning Data Analytics Part 2 | LinkedIn | 2022 |
+| Learning Data Analytics Foundations | LinkedIn | 2022 |
 | Microsoft Office: First Steps | LinkedIn | 2022 |
 | Lean Six Sigma Foundations | LinkedIn | 2021 |
 
