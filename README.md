@@ -52,7 +52,7 @@ I’m currently building projects in **Power BI and Python**, combining technica
 | 📞 **Call Center Performance Dashboard** | Interactive dashboard analyzing call volume, agent performance, call types, and KPIs using filters and segmentation. | Power BI | [🔗 View Project](https://github.com/jenvic96/call-center-dashboard) |
 | 📊 **Customer Satisfaction Dashboard** | Dashboard analyzing customer behavior, satisfaction, demographics, and purchase patterns. | Power BI | [🔗 View Project](https://github.com/jenvic96/powerbi-satisfaction-dashboard) |
 | 🐍 **Python Projects Collection** | Collection of Python programs demonstrating loops, lists, dictionaries, functions, and data processing logic. | Python | [🔗 View Project](https://github.com/jenvic96/python-projects) |
-| 🧠 **Age Statistics System (DataByte)** | Python | [🔗 View Project](https://github.com/jenvic96/python-projects/tree/main/case-study) |
+| 🧠 **Age Statistics System (DataByte)** | Complete Python system with authentication, menu navigation, and statistical analysis (max, min, average, median) using functions and data validation. | Python | [🔗 View Project](https://github.com/jenvic96/python-projects/tree/main/case-study) |
 
 > 🚀 More projects coming as I continue my Data Analytics journey.
 
