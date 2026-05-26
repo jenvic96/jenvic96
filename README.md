@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9b8ec4,100:b8b8d1&height=200&section=header&text=Jennifer%20Victoria&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%20%20%20%20&descAlignY=58&descSize=18&descColor=ede8f5" />
+<img width="100%" src="https://vercel.app" />
 
 </div>
 
