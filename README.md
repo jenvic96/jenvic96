@@ -118,6 +118,8 @@ I’m currently building projects in **Power BI and Python**, combining technica
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
+| Business Analytics & Power BI Visuals | Universidad Cenfotec | 2026 |
+| Python | Universidad Cenfotec | 2026 |
 | Getting Started with Git and GitHub | IBM | 2023 |
 | Learning Data Analytics Foundations | LinkedIn | 2022 |
 | Lean Six Sigma Foundations | LinkedIn | 2021 |
