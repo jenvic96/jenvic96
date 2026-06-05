@@ -12,7 +12,7 @@ Hi! I'm **Jennifer Victoria**, a **Data Analyst** focused on transforming data i
 
 I enjoy combining technical skills with business understanding to solve analytical problems, build data-driven solutions, and support decision-making. My projects range from interactive Power BI dashboards and business process analysis to Python-based ETL workflows, reporting automation, data visualization, and machine learning applications.
 
-- 🎓 **Technical Certificate in Data Analytics** — Universidad Cenfotec **
+- 🎓 **Technical Certificate in Data Analytics** — Universidad Cenfotec 
 - 📊 Experienced with **Power BI, Excel, dashboards, KPI analysis, and data visualization**
 - 🐍 Building projects using **Python, Pandas, NumPy, Matplotlib, TensorFlow, and Scikit-Learn**
 - 🔄 Hands-on experience with **ETL processes, data cleaning, DataFrames, reporting automation, and machine learning fundamentals**
